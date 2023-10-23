@@ -1,0 +1,11 @@
+# Submit server .submit file for
+#  Course CMSC132
+#  Project P1 - Blackjack: Blackjack
+
+courseName=CMSC132
+semester=202308
+projectNumber=P1 - Blackjack
+courseKey=29dc41a0b37593a4
+authentication.type=ldap
+baseURL=https://submit.cs.umd.edu:443/fall2023
+submitURL=https://submit.cs.umd.edu:443/fall2023/eclipse/SubmitProjectViaEclipse
